@@ -11,10 +11,10 @@
 ---
 
 ## Connect with Me
-<a href="https://www.instagram.com/jaelee1015">
+<a href="https://www.instagram.com/jaelee_flight">
     <img src="https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white"/>
 </a>&nbsp;&nbsp;&nbsp;&nbsp;
-<a href="https://www.youtube.com/@jaelee203">
+<a href="https://www.youtube.com/@jaelee_flight">
     <img src="https://img.shields.io/badge/YouTube-FF0000?style=for-the-badge&logo=youtube&logoColor=white"/>
 </a>&nbsp;&nbsp;&nbsp;&nbsp;
 
