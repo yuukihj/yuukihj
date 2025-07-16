@@ -11,7 +11,7 @@
 ---
 
 ## Connect with Me
-<a href="https://www.instagram.com/jaelee_flight">
+<a href="https://www.instagram.com/jaelee1015">
     <img src="https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white"/>
 </a>&nbsp;&nbsp;&nbsp;&nbsp;
 <a href="https://www.youtube.com/@jaelee_flight">
